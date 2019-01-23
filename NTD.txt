@@ -1,3 +1,3 @@
 This is my new text document after changed!
 This is the second line of this text on develop branch.
-
+This is the third line to test the conflict!!!!
