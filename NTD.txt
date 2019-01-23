@@ -1,1 +1,2 @@
 This is my new text document after changed!
+This is my change to test conflict!!
